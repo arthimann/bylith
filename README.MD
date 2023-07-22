@@ -81,3 +81,10 @@ php artisan app:web-services-run
 ```
 
 This process will add a task to the queue.
+
+---
+
+### Postman Collection
+
+Postman collection located in the project's root directory `Bylith.postman_collection.json`
+> NOTE! Make sure that your custom URL and port is correct in the collection resources.
